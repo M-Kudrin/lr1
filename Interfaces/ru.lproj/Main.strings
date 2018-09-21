@@ -1,0 +1,9 @@
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "6pj-dj-gTk"; */
+"6pj-dj-gTk.title" = "Оставить отзыв";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "7cL-ss-dMy"; */
+"7cL-ss-dMy.title" = "О приложении";
+
+/* Class = "UIBarButtonItem"; title = "Send"; ObjectID = "Waz-fK-BRv"; */
+"Waz-fK-BRv.title" = "Отправить";
